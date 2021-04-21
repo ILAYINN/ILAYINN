@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ILAYINN
 - 👀 I’m interested in Software QA Testing
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning Selenium, Python, Ruby ..
 - 📫 How to reach me https://www.linkedin.com/in/ilayinan/
 
 <!---
