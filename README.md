@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ILAYINN
-- 👀 I’m interested in Software QA Testing
+- 👀 I’m a Software QA Test Enginner
 - 🌱 I’m currently learning Selenium, Java, Python, Ruby ..
 - 📫 How to reach me https://www.linkedin.com/in/ilayinan/
 
