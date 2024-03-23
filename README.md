@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ILAYINN
-- 👀 I’m a Software QA Test Enginner
-- 🌱 I’m currently learning Selenium, Java, Python, Ruby ..
+- 👀 I’m a Sr. Software QA Test Enginner
+- 🌱 I’m currently learning Selenium, Java
 - 📫 How to reach me https://www.linkedin.com/in/ilayinan/
 
 <!---
